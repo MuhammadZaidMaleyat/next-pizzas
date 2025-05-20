@@ -6,7 +6,7 @@
     "foodType": "Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "A hugely popular margherita, with a deliciously tangy single cheese topping",
-    "img": "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg"
+    "img": "/image/Double_Cheese_Margherita.jpg"
   },
 
   {
@@ -16,7 +16,7 @@
     "foodType": "Non-Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Treat your taste buds with Double Pepper Barbecue Chicken, Peri-Peri Chicken, Chicken Tikka & Grilled Chicken Rashers",
-    "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(11).png"
+    "img": "/image/CHICKEN_DOMINATOR.png"
   },
   {
     "id": "3",
@@ -25,7 +25,7 @@
     "foodType": "Non-Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Bite into supreme delight of Black Olives, Onions, Grilled Mushrooms, Pepper BBQ Chicken, Peri-Peri Chicken, Grilled Chicken Rashers",
-    "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(13).png"
+    "img": "/image/NON_VEG_SUPREME.jpeg"
   },
   {
     "id": "4",
@@ -34,7 +34,7 @@
     "foodType": "Non-Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
-    "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(20).png"
+    "img": "/image/CHICKEN_PEPPERONI.jpeg"
   },
   {
     "id": "5",
@@ -43,7 +43,7 @@
     "foodType": "Non-Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Chicken Sausage & Cheese",
-    "img": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(17).png"
+    "img": "/image/CHICKEN_SAUSAGE.jpeg"
   },
   {
     "id": "6",
@@ -52,7 +52,7 @@
     "foodType": "Non-Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Pepper Barbecue Chicken | Onion",
-    "img": "https://www.dominos.co.in/files/items/Pepper_Barbeque_&_Onion.jpg"
+    "img": "/image/Pepper_Barbecue.jpg"
   },
   {
     "id": "7",
@@ -61,7 +61,7 @@
     "foodType": "Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
-    "img": "https://www.dominos.co.in/files/items/Farmhouse.jpg"
+    "img": "/image/FARM_HOUSE.jpeg"
   },
   {
     "id": "8",
@@ -70,7 +70,7 @@
     "foodType": "Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful!",
-    "img": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg"
+    "img": "/image/PEPPY_PANEER.jpeg"
   },
   {
     "id": "9",
@@ -79,7 +79,7 @@
     "foodType": "Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs.",
-    "img": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg"
+    "img": "/image/MEXICAN_GREEN_WAVE.jpeg"
   },
   {
     "id": "10",
@@ -88,7 +88,7 @@
     "foodType": "Veg",
     "price": { "regular": "69", "medium": "159", "large": "219" },
     "description": "Goldern Corn, Black Olives, Capsicum & Red Paprika",
-    "img": "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+    "img": "/image/VEGGIE_PARADISE.jpeg"
   },
   {
     "id": "11",
@@ -97,7 +97,7 @@
     "foodType": "Veg",
     "price": { "single": "40", "double": "72" },
     "description": "Freshly Baked Garlic Bread stuffed with mozzarella cheese, sweet corns & tangy and spicy jalapeños",
-    "img": "https://www.dominos.co.in/files/items/stuffed-garlic-breadstick_1346070564.webp"
+    "img": "/image/STUFFED_GARLIC_BREAD.jpg"
   },
   {
     "id": "12",
@@ -106,7 +106,7 @@
     "foodType": "Veg",
     "price": { "single": "40", "double": "72" },
     "description": "A crispy flaky wrap filled with Mexican Arancini Bean Patty rolled over a creamy Harissa Sauce.",
-    "img": "https://www.dominos.co.in/files/items/Main_Menu-VG.jpg"
+    "img": "/image/TACO_MEXICANA_VEG.jpeg"
   },
   {
     "id": "13",
@@ -115,7 +115,7 @@
     "foodType": "Non-Veg",
     "price": { "single": "40", "double": "72" },
     "description": "A crispy flaky wrap filled with Hot and Smoky Chicken Patty rolled over a creamy Harissa Sauce.",
-    "img": "https://www.dominos.co.in/files/items/Main_Menu-NVG.jpg"
+    "img": "/image/TACO_MEXICANA_NON_VEG.jpeg"
   },
   {
     "id": "14",
@@ -124,6 +124,6 @@
     "foodType": "Veg",
     "price": { "single": "40", "double": "72" },
     "description": "The endearing tang of garlic in breadstics baked to perfection.",
-    "img": "https://www.dominos.co.in/files/items/garlic-bread.webp"
+    "img": "/image/GARLIC_BREADSTICKS.jpg"
   }
 ]

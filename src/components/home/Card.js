@@ -93,11 +93,13 @@ function Card(props) {
         <div className="flex p-4 font-bold  justify-between">
           <button
             onClick={handleAddToCart}
-            className="border dark:border-gray-400 border-gray-900 rounded p-2 dark:text-gray-300  hover:bg-gradient-to-r from-indigo-700 via-violet-700 to-orange-700  hover:text-gray-100 "
+            className="border dark:border-gray-400 border-gray-900 rounded p-2 dark:text-gray-300 text-gray-900 hover:bg-gradient-to-r from-indigo-700 via-violet-700 to-orange-700  hover:text-gray-100 "
           >
             Add to cart
           </button>
-          <p className="p-2 text-xl">₹{finalPrice}/-</p>
+          <p className="p-2 text-xl dark:text-gray-300 text-gray-900">
+            ₹{finalPrice}/-
+          </p>
         </div>
       </div>
     </div>
